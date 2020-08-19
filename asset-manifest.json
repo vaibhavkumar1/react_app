@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http//vaibhavkumar1.github.io/react_app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/http//vaibhavkumar1.github.io/react_app/static/js/main.3fd2702c.chunk.js",
+    "main.js.map": "/http//vaibhavkumar1.github.io/react_app/static/js/main.3fd2702c.chunk.js.map",
+    "runtime-main.js": "/http//vaibhavkumar1.github.io/react_app/static/js/runtime-main.da08d3c7.js",
+    "runtime-main.js.map": "/http//vaibhavkumar1.github.io/react_app/static/js/runtime-main.da08d3c7.js.map",
+    "static/js/2.4138a59f.chunk.js": "/http//vaibhavkumar1.github.io/react_app/static/js/2.4138a59f.chunk.js",
+    "static/js/2.4138a59f.chunk.js.map": "/http//vaibhavkumar1.github.io/react_app/static/js/2.4138a59f.chunk.js.map",
+    "index.html": "/http//vaibhavkumar1.github.io/react_app/index.html",
+    "precache-manifest.ef7055c2a61b487c38afc24e079f7fb0.js": "/http//vaibhavkumar1.github.io/react_app/precache-manifest.ef7055c2a61b487c38afc24e079f7fb0.js",
+    "service-worker.js": "/http//vaibhavkumar1.github.io/react_app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/http//vaibhavkumar1.github.io/react_app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4138a59f.chunk.js.LICENSE.txt": "/http//vaibhavkumar1.github.io/react_app/static/js/2.4138a59f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/http//vaibhavkumar1.github.io/react_app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da08d3c7.js",
+    "static/js/2.4138a59f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3fd2702c.chunk.js"
+  ]
+}
